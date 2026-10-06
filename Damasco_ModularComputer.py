@@ -50,3 +50,10 @@ elif choice == "4":
 
 else:
     print("Invalid choice.")
+# Reflection
+# I created four functions: add_numbers(), subtract_numbers(), multiply_numbers(), and divide_numbers().
+# Each function uses two parameters: num1 and num2.
+# The arguments passed were the two numbers entered by the user, stored in the variables num1 and num2.
+# The returned value was stored in the result variable and then displayed to the user.
+# Using functions makes the program easier to read, understand, test, and maintain. Each function has one specific use and the functions 
+#can be reused if needed
